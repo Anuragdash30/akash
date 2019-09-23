@@ -20,31 +20,7 @@ body{
 
   }
   
-  ul{
-    margin:0;
-    padding:0;
-  }
-  ul li{
-    float: left;
-    width: 120px;
-    height: 40px;
-    text-align: center;
-    opacity: 0.8;
-    line-height: 40px;
-    font-size: 20px;
-    z-index: 1;
-  }
-  ul li a
-  {
-
-  text-decoration: none;
-  color: white;
-  display: block;
-
-  }
-  ul li ul li{
-    display: none;
-  }
+  
 
 
   .button_1{
@@ -69,7 +45,7 @@ body{
     background:#031b2b;
     color:#ffffff;
     padding-top:30px;
-    min-height:110px;
+    min-height:100px;
     border-bottom:#e8491d 3px solid;
   }
   
