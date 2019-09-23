@@ -70,11 +70,16 @@ body{
     float:right;
     margin-top:10px;
   }
-  
-  header .highlight, header .current a{
+  header .current a
+  {
     color:#e8491d;
     font-weight:bold;
-   
+
+  }
+  header .highlight{
+    color:#e8491d;
+    font-weight:bold;
+    font-size: 30px;   
   }
   
   header a:hover{
