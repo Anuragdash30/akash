@@ -138,6 +138,8 @@ body{
   
   #newsletter h1{
     float:left;
+    text-decoration: none;
+    font-size: 30px;
   }
   
   #newsletter form {
@@ -180,7 +182,7 @@ body{
   }
   
   #boxes .box{
-    float:center;
+    float:left;
     text-align: center;
     width:30%;
     
