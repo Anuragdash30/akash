@@ -4,10 +4,6 @@ body{
     margin:0;
     background-color:#f4f4f4;
   }
-  .brad img
-  {
-    
-  }
   
   .container{
     width:80%;
@@ -81,7 +77,6 @@ body{
   }
   
   header li{
-    float:left;
     display:inline;
     padding: 0 20px 0 20px;
   }
