@@ -196,8 +196,12 @@ body{
     color:#ffffff;
     background-color:#e8491d;
     text-align: center;
+
   }
-  
+  footer p 
+  {
+      color: #ffffff;
+  }  
   @media(max-width: 768px){
     header #branding,
     header nav,
