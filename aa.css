@@ -190,6 +190,7 @@ body{
   
   #boxes .box img{
     width:150px;
+    size: 20px;
   }
   
   aside#sidebar{
