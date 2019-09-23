@@ -4,11 +4,7 @@ body{
     margin:0;
     background-color:#f4f4f4;
   }
-  .brad img
-  {
-    
-  }
-  
+ 
   .container{
     width:80%;
     margin:auto;
@@ -188,13 +184,7 @@ body{
     width:65%;
   }
   
-  ul#services li{
-    list-style: none;
-    padding:20px;
-    border: #cccccc solid 1px;
-    margin-bottom:5px;
-    background:#e6e6e6;
-  }
+
   
   footer{
     padding:20px;
