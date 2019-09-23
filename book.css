@@ -136,9 +136,12 @@ body{
     
     text-align: center;
     font-size:30px;
+    color: #e8491d;
+
   }
   #nwsletter p{
     font-size:20px;
+    color: #cccccc;
   }
   
   #nwsletter form {
@@ -164,7 +167,8 @@ body{
   
   #boxes .box img{
     width:150px;
-    size: 20px;
+    size: 30px;
+    
   }
   
   aside#sidebar{
